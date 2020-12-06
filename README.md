@@ -10,4 +10,5 @@
 * https://aws.amazon.com/training
 
 ### Other
+
 * https://www.scrum.org
